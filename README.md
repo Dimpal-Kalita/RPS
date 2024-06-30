@@ -1,5 +1,6 @@
 # RPS
-A simple Non-Interactive Fun game
+A simple Non-Interactive Fun game.
+
 Just vote for any one and hope it wins
 
 
